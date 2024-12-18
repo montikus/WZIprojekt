@@ -1,4 +1,4 @@
-# WZMprojekt
+# WZIprojekt
 
 SkillForge
 
