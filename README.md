@@ -13,3 +13,4 @@ Already completed:
 	Functional and Non-Functional Requirements
 	Project Timeline and Schedule
 	Risk Assessment and Mitigation Plan
+	Tools Selection and Justification
